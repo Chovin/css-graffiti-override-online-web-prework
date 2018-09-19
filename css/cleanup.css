@@ -4,7 +4,7 @@
 body #wall #tag-2,
 div#wall div#tag-3.slick,
 #wall .parent>#tag-4,
-#wall>div.parent>#tag-5.slick
+body #wall>div.parent>#tag-5.slick
 {
   display: none;
 }
