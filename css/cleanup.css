@@ -1,7 +1,8 @@
 /* write your override styles here */
 
 #wall .tag-1,
-body #wall #tag-2 
+body #wall #tag-2,
+
 {
   display: none;
 }
