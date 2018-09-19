@@ -2,7 +2,8 @@
 
 #wall .tag-1,
 body #wall #tag-2,
-div#wall #tag-3.slick
+div#wall div#tag-3.slick,
+
 {
   display: none;
 }
